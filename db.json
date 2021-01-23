@@ -4,35 +4,35 @@
       "id": 1,
       "nombre": "GELATINA NAVIDEÑA CON FRUTAS Y VINO TINTO",
 	  "imagen": "https://i0.wp.com/www.vivalacocina.com/wp-content/uploads/2016/12/vintoe.jpg?fit=1200%2C800&ssl=1",
-      "ingredientes": "2 sobres de gelatina de fresa, 4 tazas de agua, 1 lata de cubos de piñas en almíbar, 1 lata de cubos de duraznos en almíbar, 300 g de ciruelas pasas sin hueso, 1 taza de vino tinto, Nuez para decorar",
+      "ingredientes":"\n*2 sobres de gelatina de fresa\n*4 tazas de agua\n*1 lata de cubos de piñas en almíbar\n*1 lata de cubos de duraznos en almíbar\n*300 g de ciruelas pasas sin hueso\n*1 taza de vino tinto, \n*Nuez para decorar",
       "preparacion": "Abre las latas de piñas y duraznos, cuela el almíbar y reserva. Pon a hervir las 4 tazas de agua y diluye los sobres de gelatina de fresa. En una olla pequeña pon a calentar el vino tinto, el almíbar y las ciruelas pasa. Sube el fuego y calienta hasta que las ciruelas se suavicen. En un tazón mezcla la gelatina de fresa y la mezcla de vino. Vierte en un molde para gelatina. Añade los trozos de piña y durazno. Refrigera por 1 hora. Desmolda con cuidado y decora con nuez."
     },
     {
       "id": 2,
       "nombre": "PONCHE NAVIDEÑO CALIENTE",
 	  "imagen": "https://www.eluniversal.com.mx/sites/default/files/2019/12/11/vaso_de_ponche.jpg",
-      "ingredientes": "4 guayabas cortadas en cuartos, 2 varas de canela, 3 peras pequeñas en láminas, 8 duraznos pelados, 1 taza de flores de Jamaica, 1 taza de piloncillo molidos",
+      "ingredientes":"\n*4 guayabas cortadas en cuartos\n*2 varas de canela\n*3 peras pequeñas en láminas\n*8 duraznos pelados\n*1 taza de flores de Jamaica\n*1 taza de piloncillo molidos",
       "preparacion": "Coloca todos los ingredientes en una olla y calienta, cuando comience a hervir retira del fuego y deja infusionar durante 30 minutos. Sirve y disfruta."
     },
 	{
       "id": 3,
       "nombre": "PINO NAVIDEÑO DE QUESO CON TOPPINGS",
 	  "imagen": "https://recetas.mx/wp-content/uploads/2020/11/Pino-navide%C3%B1o-de-queso-con-toppings-780x405.jpg",
-      "ingredientes": "2 barras de queso crema, 1 barra de queso de cabra, ½ taza de crema para batir, 1 taza de galletas saladas, 1 taza de pretzels, 1 taza de uvas o arándanos, 1 taza de almendras fileteadas",
+      "ingredientes":"\n*2 barras de queso crema\n*1 barra de queso de cabra\n* ½ taza de crema para batir\n*1 taza de galletas saladas\n*1 taza de pretzels\n*1 taza de uvas o arándanos\n*1 taza de almendras fileteadas",
       "preparacion": "Mezcla el queso crema con el queso de cabra y la crema para batir.  Dale forma de pino y refrigera durante 30 minutos. Cubre con el perejil y clava las galletas, uvas, almendras y pretzels."
     },
 	{
       "id": 4,
       "nombre": "CORONA DE QUESOS",
 	  "imagen": "https://dam.cocinafacil.com.mx/wp-content/uploads/2019/12/corona-quesos.jpg",
-      "ingredientes": "300 g de queso Monterey Jack, 300 g de queso cheddar, 300 g de queso gouda, 300 g de queso Pepper Jack, 1 taza de aceitunas, 1 manojo de romero, 12 chiles secos",
+      "ingredientes": "\n*300 g de queso Monterey Jack\n*300 g de queso cheddar\n*300 g de queso gouda\n*300 g de queso Pepper Jack\n*1 taza de aceitunas\n*1 manojo de romero\n*12 chiles secos",
       "preparacion": "Corta los quesos en cubos medianos y grandes, arma la corona con la mezcla de estos y termina con los romeros, aceitunas y chiles secos."
     },
 	{
       "id": 5,
       "nombre": "PAVO NAVIDEÑO",
 	  "imagen": "https://aspic.edu.mx/wp-content/uploads/2017/09/aspic-receta-del-pavo-relleno-navide%C3%B1o.jpg",
-      "ingredientes": "1 pavo mediano, 3 cdas. de paprika, 1 taza de mermelada de chabacano, 1 taza de mantequilla derretida, 4 dientes de ajo exprimidos, ½ taza de soya, 4 tazas de papas cambray, 1 taza de chiles de árbol secos, 1 taza de hojas de perejil, 4 cdas. de aceite de oliva, 1 cda. de ajo en polvo",
+      "ingredientes":  "\n*1 pavo mediano\n*3 cdas. de paprika\n*1 taza de mermelada de chabacano\n*1 taza de mantequilla derretida\n*4 dientes de ajo exprimidos\n*½ taza de soya\n*4 tazas de papas cambray\n*1 taza de chiles de árbol secos\n*1 taza de hojas de perejil\n*4 cdas. de aceite de oliva\n*1 cda. de ajo en polvo",
       "preparacion": "Combina la paprika, mermelada de chabacano, mantequilla, ajo y soya. Barniza el pavo y salpimenta, hornea a 130º C durante 1 hora y media, vuelve a barnizar y hornea a 160 oC por 1 hora adicional. Revuelve las papas con los chiles de árbol, aceite de oliva y ajo en polvo. Coloca en un refractario, cubre con aluminio y hornea durante 40 minutos a 160 oC junto con el pavo."
     }
   ]
